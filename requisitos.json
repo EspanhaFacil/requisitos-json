@@ -52,6 +52,10 @@
     {
       "sku": "DOCU-GRAL-24666686901",
       "propsDeal": ["em_qual_pais_sera_feita_a_homologacao"]
+    },
+    {
+      "sku": "DOCU-GRAL-29421947281",
+      "propsDeal": ["nome_completo_do_espanhol", "mes_e_ano_de_nascimento", "cidade_e_provincia", "nome_do_pai", "nome_da_mae"]
     }
   ],
   [
