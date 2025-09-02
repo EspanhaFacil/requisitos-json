@@ -56,6 +56,14 @@
     {
       "sku": "DOCU-GRAL-29421947281",
       "propsDeal": ["nome_completo_do_espanhol", "mes_e_ano_de_nascimento", "cidade_e_provincia", "nome_do_pai", "nome_da_mae"]
+    },
+    {
+      "sku": "DOCU-GRAL-29421947281",
+      "propsDeal": ["nome_completo_do_espanhol", "mes_e_ano_de_nascimento", "cidade_e_provincia", "nome_do_pai", "nome_da_mae"]
+    },
+    {
+      "sku": "DOCU-GRAL-24668134537",
+      "propsDeal": ["nome_completo_do_espanhol", "mes_e_ano_de_nascimento", "cidade_e_provincia", "nome_do_pai", "nome_da_mae"]
     }
   ],
   [
