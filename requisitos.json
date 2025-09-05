@@ -47,7 +47,7 @@
     },
     {
       "sku": "DOCU-GRAL-24664984750",
-      "propsDeal": ["formato_digital_ou_fisico", "com_ou_sem_pagina_adicional", "qual_documento_sera_traduzido_1", "qual_documento_sera_traduzido_"]
+      "propsDeal": ["formato_digital_ou_fisico", "com_ou_sem_pagina_adicional", "qual_documento_sera_traduzido_1", "quais_documentos_serao_traduzidos_"]
     },
     {
       "sku": "DOCU-GRAL-24670051961",
