@@ -1,6 +1,15 @@
 [
-  {
-    "sku": "DOCU-GRAL-24666686901",
-    "propsProduct": ["em_qual_pais_sera_feita_a_homologacao"]
-  }
+  [
+    {
+      "sku": "DOCU-GRAL-24666686901",
+      "propsProduct": ["em_qual_pais_sera_feita_a_homologacao"]
+    }
+  ],
+  [
+    {
+      "sku": "CURS-CURS-00001469",
+      "propsProduct": ["em_qual_curso_o_cliente_tem_interesse_"]
+    }
+  ]
 ]
+
