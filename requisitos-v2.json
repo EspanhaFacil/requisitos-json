@@ -98,6 +98,10 @@
     {
       "sku": "IMIG-VIST-24668969755",
       "propsProduct": ["qual_visto_"]
+    },
+    {
+      "sku": "IMIG-DOCU-24679481747",
+      "propsProduct": ["qual_a_situacao_do_interessado_", "se_for_familiar_de_espanhol_ou_de_europeu__qual_o_grau_de_parentesco_"]
     }
   ],
   [
