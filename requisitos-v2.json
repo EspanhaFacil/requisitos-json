@@ -109,5 +109,17 @@
       "sku": "JUR-GRAL-24660260675",
       "propsProduct": ["em_qual_pais_sera_feita_a_homologacao_"]
     }
-  ]
+  ],
+  [
+  {
+    "sku": "NACI-RESI-24672532563",
+    "propsProduct": [
+      "e_casado_com_espanhol_",
+      "quanto_tempo_de_residencia_legal_e_continuada_na_espanha_",
+      "ja_tem_o_certificado_do_dele_ou_tem_algum_titulo_oficial_de_estudos__eso__fp__faculdade__na_espanha",
+      "ja_tem_o_certificado_do_ccse_ou_tem_algum_titulo_oficial_de_estudos___eso__fp__faculdade__na_espanh"
+    ]
+  }
+]
+
 ]
