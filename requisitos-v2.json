@@ -119,7 +119,11 @@
       "ja_tem_o_certificado_do_dele_ou_tem_algum_titulo_oficial_de_estudos__eso__fp__faculdade__na_espanha",
       "ja_tem_o_certificado_do_ccse_ou_tem_algum_titulo_oficial_de_estudos___eso__fp__faculdade__na_espanh"
     ]
-  }
+  },
+  {
+    "sku": "NACI-NACI-933",
+    "propsProduct": ["qual_o_parentesco_com_o_espanhol_de_origem_"]
+}
 ]
 
 ]
