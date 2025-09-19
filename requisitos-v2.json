@@ -22,7 +22,10 @@
   [
     {
       "sku": "DOCU-GRAL-24692090982",
-      "propsProduct": ["de_qual_pais_e_o_antecedente_penal_", "quem_vai_emitir_o_antecedente_penal_"]
+      "propsProduct": [
+        "de_qual_pais_e_o_antecedente_penal_",
+        "quem_vai_emitir_o_antecedente_penal_"
+      ]
     },
     {
       "sku": "DOCU-GRAL-24662242337",
@@ -101,7 +104,10 @@
     },
     {
       "sku": "IMIG-DOCU-24679481747",
-      "propsProduct": ["qual_a_situacao_do_interessado_", "se_for_familiar_de_espanhol_ou_de_europeu__qual_o_grau_de_parentesco_"]
+      "propsProduct": [
+        "qual_a_situacao_do_interessado_",
+        "se_for_familiar_de_espanhol_ou_de_europeu__qual_o_grau_de_parentesco_"
+      ]
     }
   ],
   [
@@ -111,19 +117,18 @@
     }
   ],
   [
-  {
-    "sku": "NACI-RESI-24672532563",
-    "propsProduct": [
-      "e_casado_com_espanhol_",
-      "quanto_tempo_de_residencia_legal_e_continuada_na_espanha_",
-      "ja_tem_o_certificado_do_dele_ou_tem_algum_titulo_oficial_de_estudos__eso__fp__faculdade__na_espanha",
-      "ja_tem_o_certificado_do_ccse_ou_tem_algum_titulo_oficial_de_estudos___eso__fp__faculdade__na_espanh"
-    ]
-  },
-  {
-    "sku": "NACI-NACI-933",
-    "propsProduct": ["qual_o_parentesco_com_o_espanhol_de_origem_"]
-}
-]
-
+    {
+      "sku": "NACI-RESI-24672532563",
+      "propsProduct": [
+        "e_casado_com_espanhol_",
+        "quanto_tempo_de_residencia_legal_e_continuada_na_espanha_",
+        "ja_tem_o_certificado_do_dele_ou_tem_algum_titulo_oficial_de_estudos__eso__fp__faculdade__na_espanha",
+        "ja_tem_o_certificado_do_ccse_ou_tem_algum_titulo_oficial_de_estudos___eso__fp__faculdade__na_espanh"
+      ]
+    },
+    {
+      "sku": "NACI-NACI-933",
+      "propsProduct": ["qual_o_parentesco_com_o_espanhol_de_origem_"]
+    }
+  ]
 ]
