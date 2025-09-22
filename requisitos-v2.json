@@ -17,6 +17,14 @@
     {
       "sku": "CURS-CURS-00001469",
       "propsProduct": ["em_qual_curso_o_cliente_tem_interesse_"]
+    },
+    {
+      "sku": "CURS-CURS-00002278",
+      "propsProduct": ["e_mail_do_usuario_adicional__vitalicio_"]
+    },
+    {
+      "sku": "CURS-CURS-00002250",
+      "propsProduct": ["e_mail_do_usuario_adicional__1_ano_"]
     }
   ],
   [
