@@ -1,165 +1,165 @@
 [
   [
     {
-      sku: "CONS-FISC-24665292896",
-      propsProduct: ["quais_sao_as_duvidas_do_cliente_"],
+      "sku": "CONS-FISC-24665292896",
+      "propsProduct": ["quais_sao_as_duvidas_do_cliente_"]
     },
     {
-      sku: "CONS-EDUC-24664410983",
-      propsProduct: ["qual_curso_o_cliente_tem_interesse_"],
+      "sku": "CONS-EDUC-24664410983",
+      "propsProduct": ["qual_curso_o_cliente_tem_interesse_"]
     },
     {
-      sku: "CONS-IMIG-24672377253",
-      propsProduct: ["qual_o_tipo_de_tipo_visto_que_o_cliente_tem_interesse_"],
-    },
+      "sku": "CONS-IMIG-24672377253",
+      "propsProduct": ["qual_o_tipo_de_tipo_visto_que_o_cliente_tem_interesse_"]
+    }
   ],
   [
     {
-      sku: "CURS-CURS-00001469",
-      propsProduct: ["em_qual_curso_o_cliente_tem_interesse_"],
+      "sku": "CURS-CURS-00001469",
+      "propsProduct": ["em_qual_curso_o_cliente_tem_interesse_"]
     },
     {
-      sku: "CURS-CURS-00002278",
-      propsProduct: ["e_mail_do_usuario_adicional__vitalicio_"],
+      "sku": "CURS-CURS-00002278",
+      "propsProduct": ["e_mail_do_usuario_adicional__vitalicio_"]
     },
     {
-      sku: "CURS-CURS-00002250",
-      propsProduct: ["e_mail_do_usuario_adicional__1_ano_"],
-    },
+      "sku": "CURS-CURS-00002250",
+      "propsProduct": ["e_mail_do_usuario_adicional__1_ano_"]
+    }
   ],
   [
     {
-      sku: "DOCU-GRAL-24692090982",
-      propsProduct: [
+      "sku": "DOCU-GRAL-24692090982",
+      "propsProduct": [
         "de_qual_pais_e_o_antecedente_penal_",
-        "quem_vai_emitir_o_antecedente_penal_",
-      ],
+        "quem_vai_emitir_o_antecedente_penal_"
+      ]
     },
     {
-      sku: "DOCU-GRAL-24662242337",
-      propsProduct: [
+      "sku": "DOCU-GRAL-24662242337",
+      "propsProduct": [
         "qual_documento_sera_emitido_",
-        "se_for_para_lmd__informar_qual_o_consulado_de_apresentacao_",
-      ],
+        "se_for_para_lmd__informar_qual_o_consulado_de_apresentacao_"
+      ]
     },
     {
-      sku: "DOCU-GRAL-24662242335",
-      propsProduct: ["em_qual_pais_sera_feito_o_registro_"],
+      "sku": "DOCU-GRAL-24662242335",
+      "propsProduct": ["em_qual_pais_sera_feito_o_registro_"]
     },
     {
-      sku: "DOCU-EDUC-24692245591",
-      propsProduct: ["ensino_medio_finalizado_"],
+      "sku": "DOCU-EDUC-24692245591",
+      "propsProduct": ["ensino_medio_finalizado_"]
     },
     {
-      sku: "DOCU-GRAL-24657435405",
-      propsProduct: ["qual_desses_e_o_servico_"],
+      "sku": "DOCU-GRAL-24657435405",
+      "propsProduct": ["qual_desses_e_o_servico_"]
     },
     {
-      sku: "DOCU-GRAL-24664984750",
-      propsProduct: [
+      "sku": "DOCU-GRAL-24664984750",
+      "propsProduct": [
         "formato_digital_ou_fisico",
         "com_ou_sem_pagina_adicional",
-        "qual_documento_nivel_1_sera_traduzido_",
-      ],
+        "qual_documento_nivel_1_sera_traduzido_"
+      ]
     },
     {
-      sku: "DOCU-GRAL-24670051961",
-      propsProduct: ["qual_documento_nivel_2_sera_traduzido_"],
+      "sku": "DOCU-GRAL-24670051961",
+      "propsProduct": ["qual_documento_nivel_2_sera_traduzido_"]
     },
     {
-      sku: "DOCU-GRAL-24666686901",
-      propsProduct: ["em_qual_pais_sera_feita_a_homologacao"],
+      "sku": "DOCU-GRAL-24666686901",
+      "propsProduct": ["em_qual_pais_sera_feita_a_homologacao"]
     },
     {
-      sku: "DOCU-GRAL-24668134537",
-      propsProduct: [
+      "sku": "DOCU-GRAL-24668134537",
+      "propsProduct": [
         "nome_completo_do_espanhol",
         "mes_e_ano_de_nascimento",
         "cidade_e_provincia",
         "nome_do_pai",
-        "nome_da_mae",
-      ],
+        "nome_da_mae"
+      ]
     },
     {
-      sku: "DOCU-GRAL-24692090982",
-      propsProduct: [
+      "sku": "DOCU-GRAL-24692090982",
+      "propsProduct": [
         "o_antecedente_penal_deve_ser_de_qual_pais_",
         "antecedente_penal_da_espanha___o_cliente_possui_copia_do_passaporte_valido_",
         "antecedente_penal_do_brasil___o_cliente_possui_copia_do_passaporte_valido_e_do_cpf_",
-        "antecedente_penal_do_brasil___qual_o_formato_da_apostila_",
-      ],
+        "antecedente_penal_do_brasil___qual_o_formato_da_apostila_"
+      ]
     },
     {
-      sku: "DOCU-GRAL-00002284",
-      propsProduct: ["o_documento_e_", "a_apostila_sera_"],
+      "sku": "DOCU-GRAL-00002284",
+      "propsProduct": ["o_documento_e_", "a_apostila_sera_"]
     },
     {
-      sku: "DOCU-GRAL-00002285",
-      propsProduct: ["o_documento_e_", "a_apostila_sera_"],
-    },
+      "sku": "DOCU-GRAL-00002285",
+      "propsProduct": ["o_documento_e_", "a_apostila_sera_"]
+    }
   ],
   [
     {
-      sku: "IMIG-ARRA-24662087748",
-      propsProduct: ["tipo_de_arraigo"],
+      "sku": "IMIG-ARRA-24662087748",
+      "propsProduct": ["tipo_de_arraigo"]
     },
     {
-      sku: "IMIG-DOCU-24666841627",
-      propsProduct: ["data_de_vencimento_do_nie"],
+      "sku": "IMIG-DOCU-24666841627",
+      "propsProduct": ["data_de_vencimento_do_nie"]
     },
     {
-      sku: "IMIG-DOCU-24690226989",
-      propsProduct: ["data_de_vencimento_tie_dni"],
+      "sku": "IMIG-DOCU-24690226989",
+      "propsProduct": ["data_de_vencimento_tie_dni"]
     },
     {
-      sku: "IMIG-FAMI-24665292897",
-      propsProduct: ["qual_o_vinculo_com_o_espanhol_"],
+      "sku": "IMIG-FAMI-24665292897",
+      "propsProduct": ["qual_o_vinculo_com_o_espanhol_"]
     },
     {
-      sku: "IMIG-VIST-24657744697",
-      propsProduct: [
+      "sku": "IMIG-VIST-24657744697",
+      "propsProduct": [
         "em_qual_pais_esta_o_interessado_",
         "se_esta_na_espanha__ha_quanto_tempo_",
-        "ja_contratou_o_curso_",
-      ],
+        "ja_contratou_o_curso_"
+      ]
     },
     {
-      sku: "IMIG-VIST-24668969755",
-      propsProduct: ["qual_visto_"],
+      "sku": "IMIG-VIST-24668969755",
+      "propsProduct": ["qual_visto_"]
     },
     {
-      sku: "IMIG-DOCU-24679481747",
-      propsProduct: [
+      "sku": "IMIG-DOCU-24679481747",
+      "propsProduct": [
         "qual_a_situacao_do_interessado_",
-        "se_for_familiar_de_espanhol_ou_de_europeu__qual_o_grau_de_parentesco_",
-      ],
+        "se_for_familiar_de_espanhol_ou_de_europeu__qual_o_grau_de_parentesco_"
+      ]
     },
     {
-      sku: "IMIG-DOCU-24672377252",
-      propsProduct: [
-        "a_emissao_ou_renovacao_do_passaporte_seria_para_qual_pais_",
-      ],
-    },
+      "sku": "IMIG-DOCU-24672377252",
+      "propsProduct": [
+        "a_emissao_ou_renovacao_do_passaporte_seria_para_qual_pais_"
+      ]
+    }
   ],
   [
     {
-      sku: "JUR-GRAL-24660260675",
-      propsProduct: ["em_qual_pais_sera_feita_a_homologacao_"],
-    },
+      "sku": "JUR-GRAL-24660260675",
+      "propsProduct": ["em_qual_pais_sera_feita_a_homologacao_"]
+    }
   ],
   [
     {
-      sku: "NACI-RESI-24672532563",
-      propsProduct: [
+      "sku": "NACI-RESI-24672532563",
+      "propsProduct": [
         "e_casado_com_espanhol_",
         "quanto_tempo_de_residencia_legal_e_continuada_na_espanha_",
         "ja_tem_o_certificado_do_dele_ou_tem_algum_titulo_oficial_de_estudos__eso__fp__faculdade__na_espanha",
-        "ja_tem_o_certificado_do_ccse_ou_tem_algum_titulo_oficial_de_estudos___eso__fp__faculdade__na_espanh",
-      ],
+        "ja_tem_o_certificado_do_ccse_ou_tem_algum_titulo_oficial_de_estudos___eso__fp__faculdade__na_espanh"
+      ]
     },
     {
-      sku: "NACI-NACI-933",
-      propsProduct: ["qual_o_parentesco_com_o_espanhol_de_origem_"],
-    },
-  ],
-];
+      "sku": "NACI-NACI-933",
+      "propsProduct": ["qual_o_parentesco_com_o_espanhol_de_origem_"]
+    }
+  ]
+]
