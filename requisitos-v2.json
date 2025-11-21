@@ -1,6 +1,10 @@
 [
   [
     {
+      "sku": "NACI-DESC-24664410981",
+      "propsProduct": ["documento_exemplo"]
+    },
+    {
       "sku": "CONS-FISC-24665292896",
       "propsProduct": ["quais_sao_as_duvidas_do_cliente_"]
     },
