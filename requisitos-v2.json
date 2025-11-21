@@ -138,6 +138,58 @@
       "propsProduct": [
         "a_emissao_ou_renovacao_do_passaporte_seria_para_qual_pais_"
       ]
+    },
+      {
+    "sku": "IMIG-PACO-00002318",
+    "propsProduct": [
+      "qual_visto_",
+      "o_antecedente_penal_deve_ser_de_qual_pais_",
+      "antecedente_penal_da_espanha___o_cliente_possui_copia_do_passaporte_valido_",
+      "antecedente_penal_do_brasil___o_cliente_possui_copia_do_passaporte_valido_e_do_cpf_",
+      "antecedente_penal_do_brasil___qual_o_formato_da_apostila_"
+    ]
+    },
+    {
+      "sku": "IMIG-PACO-00002319",
+      "propsProduct": [
+        "qual_visto_",
+        "o_antecedente_penal_deve_ser_de_qual_pais_",
+        "antecedente_penal_da_espanha___o_cliente_possui_copia_do_passaporte_valido_",
+        "antecedente_penal_do_brasil___o_cliente_possui_copia_do_passaporte_valido_e_do_cpf_",
+        "antecedente_penal_do_brasil___qual_o_formato_da_apostila_"
+      ]
+    },
+    {
+      "sku": "IMIG-PACO-00002320",
+      "propsProduct": [
+        "qual_a_situacao_do_interessado_",
+        "se_for_familiar_de_espanhol_ou_de_europeu__qual_o_grau_de_parentesco_"
+      ]
+    },
+    {
+      "sku": "IMIG-PACO-00002321",
+      "propsProduct": [
+        "qual_a_situacao_do_interessado_",
+        "se_for_familiar_de_espanhol_ou_de_europeu__qual_o_grau_de_parentesco_"
+      ]
+    },
+    {
+      "sku": "IMIG-PACO-00002322",
+      "propsProduct": [
+        "o_antecedente_penal_deve_ser_de_qual_pais_",
+        "antecedente_penal_da_espanha___o_cliente_possui_copia_do_passaporte_valido_",
+        "antecedente_penal_do_brasil___o_cliente_possui_copia_do_passaporte_valido_e_do_cpf_",
+        "antecedente_penal_do_brasil___qual_o_formato_da_apostila_"
+      ]
+    },
+    {
+      "sku": "IMIG-PACO-00002323",
+      "propsProduct": [
+        "o_antecedente_penal_deve_ser_de_qual_pais_",
+        "antecedente_penal_da_espanha___o_cliente_possui_copia_do_passaporte_valido_",
+        "antecedente_penal_do_brasil___o_cliente_possui_copia_do_passaporte_valido_e_do_cpf_",
+        "antecedente_penal_do_brasil___qual_o_formato_da_apostila_"
+      ]
     }
   ],
   [
