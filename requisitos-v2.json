@@ -1,6 +1,16 @@
 [
   [
     {
+      "sku": "TAXA-GRAL-24663017008",
+      "propsProduct": ["qual_o_prazo_final_acordado_com_o_cliente"]
+    },
+    {
+      "sku": "TAXA-GRAL-24694174263",
+      "propsProduct": ["qual_o_prazo_final_acordado_com_o_cliente"]
+    }
+  ],
+  [
+    {
       "sku": "CONS-FISC-24665292896",
       "propsProduct": ["quais_sao_as_duvidas_do_cliente_"]
     },
