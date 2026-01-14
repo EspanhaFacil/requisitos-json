@@ -113,6 +113,18 @@
       "propsProduct": ["tipo_de_arraigo"]
     },
     {
+      "sku": "IMOB-IMOB-29985500245",
+      "propsProduct": ["chegada_na_espanha"]
+    },
+    {
+      "sku": "IMOB-GRAL-24660725682",
+      "propsProduct": ["chegada_na_espanha"]
+    },
+    {
+      "sku": "IMOB-GRAL-24690536062",
+      "propsProduct": ["chegada_na_espanha"]
+    },
+    {
       "sku": "IMIG-DOCU-24666841627",
       "propsProduct": ["data_de_vencimento_do_nie"]
     },
