@@ -105,6 +105,16 @@
     {
       "sku": "DOCU-GRAL-00002285",
       "propsProduct": ["o_documento_e_", "a_apostila_sera_"]
+    },
+    {
+      "sku": "DOCU-GRAL-24657744696",
+      "propsProduct": [
+        "quando_o_cliente_adquiriu_a_nacionalidade_espanhola",
+        "local_de_residencia_do_cliente_no_momento_de_adquirir_a_nacionalidade",
+        "indique_o_tipo_de_registro_civil_onde_foi_realizada_a_inscricao",
+        "registro_civil_onde_a_inscricao_foi_realizada",
+        "qual_certidao_sera_emitida"
+      ]
     }
   ],
   [
