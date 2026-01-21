@@ -52,6 +52,12 @@
       ]
     },
     {
+      "sku": "DOCU-GRAL-24662707491",
+      "propsProduct": [
+        "qual_documento_sera_regularizado"
+      ]
+    },
+    {
       "sku": "DOCU-GRAL-24662242335",
       "propsProduct": ["em_qual_pais_sera_feito_o_registro_"]
     },
