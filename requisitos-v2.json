@@ -239,7 +239,7 @@
   [
     {
       "sku": "FISC-IMPO-24657744695",
-      "propsProduct": ["qual_servico_o_cliente_precisa"]
+      "propsProduct": ["qual_declaracaoimposto_o_cliente_precisa"]
     }
   ],
   [
