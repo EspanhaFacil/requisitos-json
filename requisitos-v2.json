@@ -238,6 +238,12 @@
   ],
   [
     {
+      "sku": "FISC-IMPO-24657744695",
+      "propsProduct": ["qual_servico_o_cliente_precisa"]
+    }
+  ],
+  [
+    {
       "sku": "NACI-RESI-24672532563",
       "propsProduct": [
         "e_casado_com_espanhol_",
