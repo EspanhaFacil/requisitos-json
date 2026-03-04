@@ -422,6 +422,13 @@
         "formato_digital_ou_fisico",
         "com_ou_sem_pagina_adicional"
       ]
+    },
+    {
+      "sku": "FISC-SEGU-24661778251",
+      "propsProduct": [
+        "em_qual_orgao_sera_feita_a_gestao",
+        "qual_o_processo_sera_apresentado"
+      ]
     }
   ]
 ]
