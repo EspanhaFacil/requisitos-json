@@ -35,6 +35,27 @@
     {
       "sku": "CURS-CURS-00002250",
       "propsProduct": ["e_mail_do_usuario_adicional__1_ano_"]
+    },
+    {
+      "sku": "CURS-CURS-43439946666",
+      "propsProduct": [
+        "cidade_onde_vai_estudar",
+        "data_prevista_para_iniciar_o_curso"
+      ]
+    },
+    {
+      "sku": "CURS-CURS-43439822903",
+      "propsProduct": [
+        "cidade_onde_vai_estudar",
+        "data_prevista_para_iniciar_o_curso"
+      ]
+    },
+    {
+      "sku": "CURS-CURS-43433545488",
+      "propsProduct": [
+        "cidade_onde_vai_estudar",
+        "data_prevista_para_iniciar_o_curso"
+      ]
     }
   ],
   [
@@ -428,30 +449,6 @@
       "propsProduct": [
         "em_qual_orgao_sera_feita_a_gestao",
         "qual_o_processo_sera_apresentado"
-      ]
-    },
-    {
-      "sku": "CURS-CURS-43439946666",
-      "propsProduct": [
-        "cidade_onde_vai_estudar",
-        "data_prevista_para_iniciar_o_curso",
-        "copia_do_passaporte_do_aluno"
-      ]
-    },
-    {
-      "sku": "CURS-CURS-43439822903",
-      "propsProduct": [
-        "cidade_onde_vai_estudar",
-        "data_prevista_para_iniciar_o_curso",
-        "copia_do_passaporte_do_aluno"
-      ]
-    },
-    {
-      "sku": "CURS-CURS-43433545488",
-      "propsProduct": [
-        "cidade_onde_vai_estudar",
-        "data_prevista_para_iniciar_o_curso",
-        "copia_do_passaporte_do_aluno"
       ]
     }
   ]
