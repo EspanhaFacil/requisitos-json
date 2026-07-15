@@ -72,15 +72,11 @@
     },
     {
       "sku": "DOCU-GRAL-24668289621",
-      "propsProduct": [
-        "foi_adicionado_o_envio_ao_orcamento_"
-      ]
+      "propsProduct": ["foi_adicionado_o_envio_ao_orcamento_"]
     },
     {
       "sku": "DOCU-GRAL-24662707491",
-      "propsProduct": [
-        "qual_documento_sera_regularizado"
-      ]
+      "propsProduct": ["qual_documento_sera_regularizado"]
     },
     {
       "sku": "DOCU-GRAL-24662242335",
@@ -202,15 +198,15 @@
         "a_emissao_ou_renovacao_do_passaporte_seria_para_qual_pais_"
       ]
     },
-      {
-    "sku": "IMIG-PACO-00002318",
-    "propsProduct": [
-      "qual_visto_",
-      "o_antecedente_penal_deve_ser_de_qual_pais_",
-      "antecedente_penal_da_espanha___o_cliente_possui_copia_do_passaporte_valido_",
-      "antecedente_penal_do_brasil___o_cliente_possui_copia_do_passaporte_valido_e_do_cpf_",
-      "antecedente_penal_do_brasil___qual_o_formato_da_apostila_"
-    ]
+    {
+      "sku": "IMIG-PACO-00002318",
+      "propsProduct": [
+        "qual_visto_",
+        "o_antecedente_penal_deve_ser_de_qual_pais_",
+        "antecedente_penal_da_espanha___o_cliente_possui_copia_do_passaporte_valido_",
+        "antecedente_penal_do_brasil___o_cliente_possui_copia_do_passaporte_valido_e_do_cpf_",
+        "antecedente_penal_do_brasil___qual_o_formato_da_apostila_"
+      ]
     },
     {
       "sku": "IMIG-PACO-00002319",
@@ -422,7 +418,7 @@
       ]
     },
     {
-      "sku": "TRAD-TRAD-33136518688",
+      "sku": "TRAD-TRAD-661",
       "propsProduct": [
         "contem_apostila_de_haia_",
         "este_cliente_tem_outro_servico_contratado_com_a_espanha_facil_que_precisa_desse_documento__ou_vai_u",
@@ -436,16 +432,78 @@
         "contem_apostila_de_haia_",
         "este_cliente_tem_outro_servico_contratado_com_a_espanha_facil_que_precisa_desse_documento__ou_vai_u",
         "formato_digital_ou_fisico",
-        "com_ou_sem_pagina_adicional"
+        "com_ou_sem_pagina_adicional",
+        "qual_documento_nivel_1_sera_traduzido_"
       ]
     },
     {
-      "sku": "TRAD-TRAD-661",
+      "sku": "TRAD-TRAD-00000003164",
       "propsProduct": [
         "contem_apostila_de_haia_",
         "este_cliente_tem_outro_servico_contratado_com_a_espanha_facil_que_precisa_desse_documento__ou_vai_u",
         "formato_digital_ou_fisico",
-        "com_ou_sem_pagina_adicional"
+        "com_ou_sem_pagina_adicional",
+        "qual_documento_nivel_1_sera_traduzido_"
+      ]
+    },
+    {
+      "sku": "TRAD-TRAD-44962797700",
+      "propsProduct": [
+        "contem_apostila_de_haia_",
+        "este_cliente_tem_outro_servico_contratado_com_a_espanha_facil_que_precisa_desse_documento__ou_vai_u",
+        "formato_digital_ou_fisico",
+        "com_ou_sem_pagina_adicional",
+        "qual_documento_nivel_1_sera_traduzido_"
+      ]
+    },
+    {
+      "sku": "TRAD-TRAD-00000003165",
+      "propsProduct": [
+        "contem_apostila_de_haia_",
+        "este_cliente_tem_outro_servico_contratado_com_a_espanha_facil_que_precisa_desse_documento__ou_vai_u",
+        "formato_digital_ou_fisico",
+        "com_ou_sem_pagina_adicional",
+        "qual_documento_nivel_1_sera_traduzido_"
+      ]
+    },
+    {
+      "sku": "TRAD-TRAD-33136518688",
+      "propsProduct": [
+        "contem_apostila_de_haia_",
+        "este_cliente_tem_outro_servico_contratado_com_a_espanha_facil_que_precisa_desse_documento__ou_vai_u",
+        "formato_digital_ou_fisico",
+        "com_ou_sem_pagina_adicional",
+        "qual_documento_nivel_2_sera_traduzido_"
+      ]
+    },
+    {
+      "sku": "TRAD-TRAD-00000003166",
+      "propsProduct": [
+        "contem_apostila_de_haia_",
+        "este_cliente_tem_outro_servico_contratado_com_a_espanha_facil_que_precisa_desse_documento__ou_vai_u",
+        "formato_digital_ou_fisico",
+        "com_ou_sem_pagina_adicional",
+        "qual_documento_nivel_2_sera_traduzido_"
+      ]
+    },
+    {
+      "sku": "TRAD-TRAD-44917992043",
+      "propsProduct": [
+        "contem_apostila_de_haia_",
+        "este_cliente_tem_outro_servico_contratado_com_a_espanha_facil_que_precisa_desse_documento__ou_vai_u",
+        "formato_digital_ou_fisico",
+        "com_ou_sem_pagina_adicional",
+        "qual_documento_nivel_2_sera_traduzido_"
+      ]
+    },
+    {
+      "sku": "TRAD-TRAD-00000003167",
+      "propsProduct": [
+        "contem_apostila_de_haia_",
+        "este_cliente_tem_outro_servico_contratado_com_a_espanha_facil_que_precisa_desse_documento__ou_vai_u",
+        "formato_digital_ou_fisico",
+        "com_ou_sem_pagina_adicional",
+        "qual_documento_nivel_2_sera_traduzido_"
       ]
     },
     {
