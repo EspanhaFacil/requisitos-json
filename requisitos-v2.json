@@ -400,7 +400,17 @@
     {
       "sku": "TRAD-TRAD-33254539153",
       "propsProduct": [
-        "qual_certidao_sera_traduzida_",
+        "qual_documento_inteiro_teor_sera_traduzido",
+        "contem_apostila_de_haia_",
+        "este_cliente_tem_outro_servico_contratado_com_a_espanha_facil_que_precisa_desse_documento__ou_vai_u",
+        "formato_digital_ou_fisico",
+        "com_ou_sem_pagina_adicional"
+      ]
+    },
+    {
+      "sku": "TRAD-TRAD-44962735905",
+      "propsProduct": [
+        "qual_documento_inteiro_teor_sera_traduzido",
         "contem_apostila_de_haia_",
         "este_cliente_tem_outro_servico_contratado_com_a_espanha_facil_que_precisa_desse_documento__ou_vai_u",
         "formato_digital_ou_fisico",
