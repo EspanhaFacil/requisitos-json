@@ -267,6 +267,7 @@
     {
       "sku": "NACI-RESI-24672532563",
       "propsProduct": [
+        "qual_e_o_tipo_de_nacionalidade_espanhola",
         "e_casado_com_espanhol_",
         "quanto_tempo_de_residencia_legal_e_continuada_na_espanha_",
         "ja_tem_o_certificado_do_dele_ou_tem_algum_titulo_oficial_de_estudos__eso__fp__faculdade__na_espanha",
