@@ -293,6 +293,20 @@
         "com_ou_sem_pagina_adicional"
       ]
     },
+        {
+      "sku": "TRAD-TRAD-00000003261",
+      "propsProduct": [
+        "idiomas_de_origem_e_destino",
+        “qual_documento_nivel_1_sera_traduzido_”
+      ]
+    },
+    {
+      "sku": "TRAD-TRAD-00000003262",
+      "propsProduct": [
+        "idiomas_de_origem_e_destino",
+        “qual_documento_nivel_2_sera_traduzido_”
+      ]
+    },
     {
       "sku": "TRAD-TRAD-33254415451",
       "propsProduct": [
