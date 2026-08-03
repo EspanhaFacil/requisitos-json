@@ -293,18 +293,18 @@
         "com_ou_sem_pagina_adicional"
       ]
     },
-        {
+    {
       "sku": "TRAD-TRAD-00000003261",
       "propsProduct": [
         "idiomas_de_origem_e_destino",
-        “qual_documento_nivel_1_sera_traduzido_”
+        "qual_documento_nivel_1_sera_traduzido_"
       ]
     },
     {
       "sku": "TRAD-TRAD-00000003262",
       "propsProduct": [
         "idiomas_de_origem_e_destino",
-        “qual_documento_nivel_2_sera_traduzido_”
+        "qual_documento_nivel_2_sera_traduzido_"
       ]
     },
     {
@@ -470,7 +470,7 @@
       "propsProduct": [
         "contem_apostila_de_haia_",
         "este_cliente_tem_outro_servico_contratado_com_a_espanha_facil_que_precisa_desse_documento__ou_vai_u",
-        "formato_digital_ou_fisico",
+        "formato_digital_ohisico",
         "com_ou_sem_pagina_adicional",
         "qual_documento_nivel_1_sera_traduzido_"
       ]
@@ -509,7 +509,7 @@
       "sku": "TRAD-TRAD-00000003166",
       "propsProduct": [
         "contem_apostila_de_haia_",
-        "este_cliente_tem_outro_servico_contratado_com_a_espanha_facil_que_precisa_desse_documento__ou_vai_u",
+        "este_cliente_tem_outro_servico_contratado_com_a_espanha_facil_neria_desse_documento__ou_vai_u",
         "formato_digital_ou_fisico",
         "com_ou_sem_pagina_adicional",
         "qual_documento_nivel_2_sera_traduzido_"
