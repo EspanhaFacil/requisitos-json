@@ -12,15 +12,48 @@
   [
     {
       "sku": "CONS-FISC-24665292896",
-      "propsProduct": ["quais_sao_as_duvidas_do_cliente_"]
+      "propsProduct": [
+        "quais_sao_as_duvidas_do_cliente_",
+        "resumo_da_negociacao"
+      ]
     },
     {
       "sku": "CONS-EDUC-24664410983",
-      "propsProduct": ["qual_curso_o_cliente_tem_interesse_"]
+      "propsProduct": [
+        "qual_curso_o_cliente_tem_interesse_",
+        "resumo_da_negociacao"
+      ]
+    },
+    {
+      "sku": "CONS-FISC-24692245590",
+      "propsProduct": ["resumo_da_negociacao"]
+    },
+    {
+      "sku": "CONS-NACI-24662707492",
+      "propsProduct": ["resumo_da_negociacao"]
+    },
+    {
+      "sku": "CONS-IMOB-24666223383",
+      "propsProduct": ["resumo_da_negociacao"]
+    },
+    {
+      "sku": "CONS-JUR-24660260674",
+      "propsProduct": ["resumo_da_negociacao"]
+    },
+    {
+      "sku": "CONS-GRAL-24694174262",
+      "propsProduct": ["resumo_da_negociacao"]
+    },
+    {
+      "sku": "DOCU-GRAL-24673615504",
+      "propsProduct": ["resumo_da_negociacao"]
     },
     {
       "sku": "CONS-IMIG-24672377253",
-      "propsProduct": ["qual_o_tipo_de_visto_que_o_cliente_tem_interesse_"]
+      "propsProduct": [
+        "qual_o_tipo_de_visto_que_o_cliente_tem_interesse_",
+        "resumo_da_negociacao"
+      ]
     }
   ],
   [
