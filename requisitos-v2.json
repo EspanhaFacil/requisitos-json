@@ -63,7 +63,7 @@
     },
     {
       "sku": "CURS-CURS-00002278",
-      "propsProduct": ["e_mail_do_usuario_adicional__vitalicio_"]
+      "propsProduct": ["email_do_usuario"]
     },
     {
       "sku": "CURS-CURS-00002277",
@@ -71,7 +71,7 @@
     },
     {
       "sku": "CURS-CURS-37577026072",
-      "propsProduct": ["e_mail_do_usuario_adicional__vitalicio_"]
+      "propsProduct": ["email_do_usuario"]
     },
     {
       "sku": "CURS-CURS-00002250",
