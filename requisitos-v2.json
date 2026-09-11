@@ -156,19 +156,18 @@
     {
       "sku": "DOCU-GRAL-24692090982",
       "propsProduct": [
-        "o_antecedente_penal_deve_ser_de_qual_pais_",
+        "formato_do_registro_penal",
         "antecedente_penal_da_espanha___o_cliente_possui_copia_do_passaporte_valido_",
-        "antecedente_penal_do_brasil___o_cliente_possui_copia_do_passaporte_valido_e_do_cpf_",
-        "antecedente_penal_do_brasil___qual_o_formato_da_apostila_"
+        "antecedente_penal_do_brasil___o_cliente_possui_copia_do_passaporte_valido_e_do_cpf_"
       ]
     },
     {
       "sku": "DOCU-GRAL-00002284",
-      "propsProduct": ["o_documento_e_", "a_apostila_sera_"]
+      "propsProduct": ["formato_da_apostila_nivel_1"]
     },
     {
       "sku": "DOCU-GRAL-00002285",
-      "propsProduct": ["o_documento_e_", "a_apostila_sera_"]
+      "propsProduct": ["formato_da_apostila_nivel_2"]
     },
     {
       "sku": "DOCU-GRAL-24657744696",
