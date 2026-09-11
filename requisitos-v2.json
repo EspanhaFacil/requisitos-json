@@ -163,11 +163,11 @@
     },
     {
       "sku": "DOCU-GRAL-00002284",
-      "propsProduct": ["formato_da_apostila_nivel_1"]
+      "propsProduct": ["formato_da_apostila_nivel_1", "o_documento_e_"]
     },
     {
       "sku": "DOCU-GRAL-00002285",
-      "propsProduct": ["formato_da_apostila_nivel_2"]
+      "propsProduct": ["formato_da_apostila_nivel_2", "o_documento_e_"]
     },
     {
       "sku": "DOCU-GRAL-24657744696",
