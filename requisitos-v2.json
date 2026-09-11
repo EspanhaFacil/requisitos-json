@@ -62,11 +62,26 @@
       "propsProduct": ["em_qual_curso_o_cliente_tem_interesse_"]
     },
     {
-      "sku": "CURS-CURS-00002278",
+      "sku": "CURS-CURS-43439946666",
+      "propsProduct": [
+        "cidade_onde_vai_estudar",
+        "data_prevista_para_iniciar_o_curso"
+      ]
+    },
+    {
+      "sku": "CURS-CURS-00003074",
       "propsProduct": ["email_do_usuario"]
     },
     {
-      "sku": "CURS-CURS-00002277",
+      "sku": "CURS-CURS-00000003024",
+      "propsProduct": ["email_do_usuario"]
+    },
+    {
+      "sku": "CURS-CURS-00000003023",
+      "propsProduct": ["email_do_usuario"]
+    },
+    {
+      "sku": "CURS-CURS-37791084111",
       "propsProduct": ["email_do_usuario"]
     },
     {
@@ -74,15 +89,16 @@
       "propsProduct": ["email_do_usuario"]
     },
     {
-      "sku": "CURS-CURS-00002250",
-      "propsProduct": ["e_mail_do_usuario_adicional__1_ano_"]
+      "sku": "CURS-CURS-00002279",
+      "propsProduct": ["email_do_usuario"]
     },
     {
-      "sku": "CURS-CURS-43439946666",
-      "propsProduct": [
-        "cidade_onde_vai_estudar",
-        "data_prevista_para_iniciar_o_curso"
-      ]
+      "sku": "CURS-CURS-00002278",
+      "propsProduct": ["email_do_usuario"]
+    },
+    {
+      "sku": "CURS-CURS-00002249",
+      "propsProduct": ["email_do_usuario"]
     },
     {
       "sku": "CURS-CURS-43439822903",
