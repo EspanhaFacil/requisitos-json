@@ -47,8 +47,8 @@
     {
       "sku": "DOCU-GRAL-24666841625",
       "propsProduct": [
-        "o_cliente_possui_a_certidao_consular",
-        "certidao_a_ser_transcrita"
+        "certidao_a_ser_transcrita",
+        "o_cliente_possui_a_certidao_consular"
       ]
     },
     {
