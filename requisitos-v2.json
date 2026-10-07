@@ -45,6 +45,10 @@
       "propsProduct": ["resumo_da_negociacao"]
     },
     {
+      "sku": "DOCU-GRAL-24666841625",
+      "propsProduct": ["o_cliente_possui_a_certidao_consular"]
+    },
+    {
       "sku": "DOCU-GRAL-24673615504",
       "propsProduct": ["resumo_da_negociacao"]
     },
