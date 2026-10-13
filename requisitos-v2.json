@@ -83,6 +83,10 @@
       "sku": "CURS-CURS-00000003024",
       "propsProduct": ["email_do_usuario"]
     },
+        {
+      "sku": "CURS-CURS-00002277",
+      "propsProduct": ["email_do_usuario"]
+    },
     {
       "sku": "CURS-CURS-00000003023",
       "propsProduct": ["email_do_usuario"]
