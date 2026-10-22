@@ -226,7 +226,10 @@
     },
     {
       "sku": "IMIG-DOCU-24666841627",
-      "propsProduct": ["data_de_vencimento_do_nie"]
+      "propsProduct": [
+        "data_de_vencimento_do_nie",
+        "tipo_de_renovacao_ou_modificacao_do_tienie"
+      ]
     },
     {
       "sku": "IMIG-DOCU-24690226989",
