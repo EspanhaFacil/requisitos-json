@@ -249,7 +249,12 @@
     },
     {
       "sku": "IMIG-VIST-24668969755",
-      "propsProduct": ["qual_visto_"]
+      "propsProduct": [
+        "qual_visto_",
+        "data_prevista_de_entrada_na_espanha",
+        "provincia_que_pretende_morar",
+        "ja_esta_na_espanha"
+      ]
     },
     {
       "sku": "IMIG-VIST-28140665456",
