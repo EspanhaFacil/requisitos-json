@@ -230,7 +230,7 @@
         "data_de_vencimento_do_nie",
         "tipo_de_renovacao_ou_modificacao_do_tienie",
         "data_prevista_de_entrada_na_espanha",
-        "provincia_que_pretende_morar",
+        "cidade_que_pretende_morar",
         "ja_esta_na_espanha"
       ]
     },
@@ -238,7 +238,7 @@
       "sku": "IMIG-VIST-37791080325",
       "propsProduct": [
         "data_prevista_de_entrada_na_espanha",
-        "provincia_que_pretende_morar",
+        "cidade_que_pretende_morar",
         "ja_esta_na_espanha"
       ]
     },
@@ -257,7 +257,7 @@
         "se_esta_na_espanha__ha_quanto_tempo_",
         "ja_contratou_o_curso_",
         "data_prevista_de_entrada_na_espanha",
-        "provincia_que_pretende_morar",
+        "cidade_que_pretende_morar",
         "ja_esta_na_espanha"
       ]
     },
@@ -266,7 +266,7 @@
       "propsProduct": [
         "qual_visto_",
         "data_prevista_de_entrada_na_espanha",
-        "provincia_que_pretende_morar",
+        "cidade_que_pretende_morar",
         "ja_esta_na_espanha"
       ]
     },
