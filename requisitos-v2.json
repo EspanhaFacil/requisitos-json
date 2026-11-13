@@ -239,6 +239,7 @@
       "propsProduct": [
         "data_prevista_de_entrada_na_espanha",
         "cidade_que_pretende_morar",
+        "instituicaomodalidade_desejada",
         "ja_esta_na_espanha"
       ]
     },
