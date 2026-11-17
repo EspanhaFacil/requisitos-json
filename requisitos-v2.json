@@ -245,11 +245,18 @@
     },
     {
       "sku": "IMIG-DOCU-24690226989",
-      "propsProduct": ["data_de_vencimento_tie_dni"]
+      "propsProduct": [
+        "data_de_vencimento_tie_dni",
+        "emissao_ou_renovacao"
+      ]
     },
     {
       "sku": "IMIG-FAMI-24665292897",
       "propsProduct": ["qual_o_vinculo_com_o_espanhol_"]
+    },
+    {
+      "sku": "IMIG-DOCU-41608667393",
+      "propsProduct": ["emissao_ou_renovacao"]
     },
     {
       "sku": "IMIG-VIST-24657744697",
@@ -286,7 +293,8 @@
     {
       "sku": "IMIG-DOCU-24672377252",
       "propsProduct": [
-        "a_emissao_ou_renovacao_do_passaporte_seria_para_qual_pais_"
+        "a_emissao_ou_renovacao_do_passaporte_seria_para_qual_pais_",
+        "emissao_ou_renovacao"
       ]
     },
     {
